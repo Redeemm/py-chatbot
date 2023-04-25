@@ -59,13 +59,98 @@
     {
       "tag" : "DCIT 405",
       "patterns" : [
-        "What is DCIT 405?",
+        "What is  Statistical Methods for Data Science",
         "What is DCIT 405 about?",
         "Dcit 405 is?",
-        "Tell me about DCIT 405"
+        "Tell me about DCIT 405",
+        "Statistical methods course?"
       ],
       "responses" : [
-        "This course covers statistical models and methods used in data science, including exploratory data analysis, data sampling and distribution, experimental design, regression and prediction, classification, clustering, and dimensionality reduction. Students will implement these methods in Python and R and learn to interpret and communicate results. This course is for students who want to use statistical models and methods for data analysis and decision-making."
+        "DCIT 405: Statistical Methods for Data Science covers statistical models and methods used in data science, including exploratory data analysis, data sampling and distribution, experimental design, regression and prediction, classification, clustering, and dimensionality reduction. Students will implement these methods in Python and R and learn to interpret and communicate results. This course is for students who want to use statistical models and methods for data analysis and decision-making."
+      ]
+    },
+    {
+      "tag" : "DCIT 405 LECTURER",
+      "patterns" : [
+        "Who is the lecturer for DCIT 405?",
+        "Who teaches Statistical Methods for Data Science?",
+        "Who teaches DCIT 405 LECTURER?",
+        "DCIT 405 lecturer?",
+        "Who is statistical methods course lecturer",
+        "Who is incharge of statistical methods course"
+      ],
+      "responses" : [
+        "Dr. Justice K. Appati is the lecturer for this course."
+      ]
+    },
+    {
+      "tag" : "DCIT 411",
+      "patterns" : [
+        "What is DCIT 411:Bioinformatics?",
+        "I want to know about Bioinformatics course?",
+        "Tell me what you know about Bioinformatics course.",
+        "What is Bioinformatics course about?",
+        "DCIT 411?",
+        "Bioinformatics?"
+      ],
+      "responses" : [
+        " DCIT 411 : Bioinformatics covers an interdisciplinary field that combines computer science, statistics, and biology to analyze and interpret biological data. This course provides an introduction to bioinformatics and covers topics such as genomics, proteomics, and transcriptomics. Students will learn how to use software tools and algorithms to process, analyze, and visualize biological data, including DNA sequences and protein structures. The course will also cover important concepts such as sequence alignment, gene expression analysis, and phylogenetic tree construction. Students will be expected to use programming languages like Python and R to implement these methods and analyze biological data. This course is designed for students who want to apply computational methods to biological problems and gain a deeper understanding of the molecular basis of life."
+      ]
+    },
+    {
+      "tag" : "DCIT 411 LECTURER",
+      "patterns" : [
+        "What is the name of the DCIT 411 LECTURER?",
+        "Who teaches Bioinformatics?",
+        "Lecture for DCIT 411?",
+        "Who is in charge of DCIT 411?",
+        "Bioinformatics lecture?"
+      ],
+      "responses" : [
+        "Dr. Sarpong is the lecturer for DCIT 411:Bioinformatics."
+      ]
+    },
+    {
+      "tag" : "DCIT 408",
+      "patterns" : [
+        "Compilers?",
+        "DCIT 408:Compilers?",
+        "What is DCIT 408:Compilers about",
+        "About DCIT 408?",
+        "What is the Compilers course about?",
+        "I need information about DCIT 408?",
+        "What is the compliers course about"
+      ],
+      "responses" : [
+        "DCIT 408:Compilers is as course that provides an introduction to the principles and techniques used in the design and implementation of compilers. Students will learn how compilers translate high-level programming languages into machine code, including lexical analysis, syntax analysis, semantic analysis, code generation, and optimization. The course will cover important concepts such as context-free grammars, regular expressions, parsing algorithms, and abstract syntax trees. Students will also learn how to use programming languages like C++ to implement a compiler and perform various optimizations. The course is designed for students who want to learn how compilers work and gain a deeper understanding of programming languages and computer architecture."
+      ]
+    },
+    {
+      "tag" : "DCIT 426",
+      "patterns" : [
+        "What is DCIT 426?",
+        "Tell me about the Telecommunication Systems course in the university of ghana?",
+        "About the telecommunication Systems course?",
+        "What is the Telecommunication Systems course about?",
+        "More info on the Telecommunication Systems course?",
+        "DCIT 426?"
+      ],
+      "responses" : [
+        " DCIT 426 : Telecommunication Systems provides an introduction to the principles and technologies used in modern telecommunication systems. Students will learn how telecommunication systems transmit voice, data, and video signals over a variety of networks, including wired and wireless networks. The course covers topics such as modulation, multiplexing, signal processing, transmission media, and network architecture. Students will also learn about digital communication protocols and standards, such as TCP/IP, OSI model, and wireless communication protocols like Bluetooth and Wi-Fi. The course will also cover important concepts such as network security, network management, and quality of service. Students will gain hands-on experience in designing, configuring, and troubleshooting telecommunication systems through laboratory exercises. This course is designed for "
+      ]
+    },
+    {
+      "tag" : "DCIT 412",
+      "patterns" : [
+        "What is DCIT 412 about?",
+        "Tell me what  Computer Vision is about?",
+        "What is  DCIT 412:Computer Vision?",
+        "About DCIT 412?",
+        "Computer Vision course?",
+        "Give me details about DCIT 412 : Computer Vision course?"
+      ],
+      "responses" : [
+        "DCIT 412 : Computer Vision provides an introduction to computer vision, a field that deals with the ability of computers to interpret and understand visual data from the world around us. Students will learn how to use algorithms and techniques to analyse images and videos and extract useful information. The course covers topics such as image filtering, edge detection, feature extraction, object recognition, and motion analysis. Students will also learn about deep learning techniques and convolutional neural networks for image and video analysis. The course will also cover applications of computer vision, such as image and video processing, object tracking, and facial recognition. Students will gain hands-on experience in designing and implementing computer vision systems through programming projects. This course is designed for students who want to learn about the fundamentals of computer vision and its practical applications in fields such as robotics, autonomous vehicles, and healthcare."
       ]
     }
   ]
