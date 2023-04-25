@@ -55,6 +55,18 @@
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
       ]
+    },
+    {
+      "tag" : "DCIT 405",
+      "patterns" : [
+        "What is DCIT 405?",
+        "What is DCIT 405 about?",
+        "Dcit 405 is?",
+        "Tell me about DCIT 405"
+      ],
+      "responses" : [
+        "This course covers statistical models and methods used in data science, including exploratory data analysis, data sampling and distribution, experimental design, regression and prediction, classification, clustering, and dimensionality reduction. Students will implement these methods in Python and R and learn to interpret and communicate results. This course is for students who want to use statistical models and methods for data analysis and decision-making."
+      ]
     }
   ]
 }
