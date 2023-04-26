@@ -208,6 +208,146 @@
       "responses" : [
         "The course builds on the foundation of introductory database concepts learned in previous courses and delves deeper into advanced topics such as distributed databases, data warehousing, data mining, and database security. Students will also learn about the latest technologies and trends in database systems."
       ]
+    },
+    {
+      "tag" : "DCIT 400",
+      "patterns" : [
+        "What is DCIT 400?",
+        "What is DCIT 400 about?",
+        "Dcit 400 is?",
+        "Tell me about DCIT 400",
+        "What is the subject matter of DCIT 400?",
+        "Can you tell me what DCIT 400 covers?",
+        "I'm curious about the content of DCIT 400. What is it about?",
+        "Could you provide some information about DCIT 400?",
+        "I'm interested in DCIT 400. Can you give me an overview of what it entails?",
+        "What is PROJECT?",
+        "What is PROJECT about?",
+        "PROJECT is?",
+        "Tell me about PROJECT",
+        "What is the subject matter of PROJECT?",
+        "Can you tell me what PROJECT covers?",
+        "I'm curious about the content of PROJECT. What is it about?",
+        "Could you provide some information about PROJECT?",
+        "I'm interested in PROJECT. Can you give me an overview of what it entails?"
+      ],
+      "responses" : [
+        "DCIT 400, also known as 'Project', is a 6-credit course that is typically taken by students in their final year of study and focuses on providing practical experience in applying computer science knowledge and skills to real-world problems. The course involves the development of a software project or research work from start to finish, and includes lectures, practical sessions, and project work to provide hands-on experience and project-based learning.\nThe objectives of the course include developing skills in project planning and management, requirements gathering and analysis, software design and development, testing and quality assurance, and project documentation. Additionally, the course aims to improve teamwork skills, collaboration, communication, and leadership abilities, and prepare students for a career in software development.\nThe course content includes topics such as project planning and management, project documentation, presentation skills, professionalism and ethics, and research methods. Teaching and learning methods may include lectures and class discussions facilitated by instructors using multimedia presentations, textbooks, and other materials.\nAssessment in DCIT 400 is typically based on the final project submission, and students will be graded accordingly. Students will also be assigned to their respective project supervisors who will provide guidance throughout the course.",
+        "DCIT 400, also known as 'Project', is a 6-credit course focusing on practical application of computer science knowledge. Aimed at final-year students, the course involves developing a software project or research work, with an emphasis on project planning, management, documentation, and presentation skills. Students are expected to work in teams, collaborate, and develop leadership abilities. The course also covers topics such as professionalism, ethics, and research methods. Teaching methods include lectures and discussions, with assessment based on the final project submission. Students are assigned project supervisors for guidance throughout the course.",
+        "DCIT 400, also referred to as 'Project', is a 6-credit course that provides students with hands-on experience in applying their computer science knowledge to real-world problems. Typically taken in the final year of study, the course involves the development of a software project or research work, and covers topics such as project planning, requirements gathering, software design and development, testing, documentation, presentation skills, professionalism, ethics, and research methods. Students are encouraged to work in teams, collaborate, and improve their communication and leadership skills. Assessment is based on the final project submission, and students are assigned project supervisors for guidance and support throughout the course."
+      ]
+    },
+    {
+      "tag" : "DCIT 400 Lecturer",
+      "patterns" : [
+        "Who is the lecturer for DCIT 400 at the University?",
+        "What is the name of the instructor who teaches DCIT 400?",
+        "Can you provide the details of the course lecturer for DCIT 400?",
+        "Who is responsible for delivering lectures in DCIT 400 at the University?",
+        "What is the identity of the professor who teaches the course with code DCIT 400?",
+        "Who is the lecturer for PROJECT at the University?",
+        "What is the name of the instructor who teaches PROJECT?",
+        "Can you provide the details of the course lecturer for PROJECT?",
+        "Who is responsible for delivering lectures in PROJECT at the University?",
+        "What is the identity of the professor who teaches the course with code PROJECT?"
+      ],
+      "responses" : [
+       "Professor Ferdinand Katsriku"
+      ]
+    },
+    {
+      "tag" : "DCIT 402",
+      "patterns" : [
+        "What is DCIT 402?",
+        "What is DCIT 402 about?",
+        "Dcit 402 is?",
+        "Tell me about DCIT 402",
+        "What is the subject matter of DCIT 402?",
+        "Can you tell me what DCIT 402 covers?",
+        "I'm curious about the content of DCIT 402. What is it about?",
+        "Could you provide some information about DCIT 402?",
+        "I'm interested in DCIT 402. Can you give me an overview of what it entails?",
+        "What is MANAGEMENT PRINCIPLES IN COMPUTING?",
+        "What is MANAGEMENT PRINCIPLES IN COMPUTING about?",
+        "MANAGEMENT PRINCIPLES IN COMPUTING is?",
+        "Tell me about MANAGEMENT PRINCIPLES IN COMPUTING",
+        "What is the subject matter of MANAGEMENT PRINCIPLES IN COMPUTING?",
+        "Can you tell me what MANAGEMENT PRINCIPLES IN COMPUTING covers?",
+        "I'm curious about the content of MANAGEMENT PRINCIPLES IN COMPUTING. What is it about?",
+        "Could you provide some information about MANAGEMENT PRINCIPLES IN COMPUTING?",
+        "I'm interested in MANAGEMENT PRINCIPLES IN COMPUTING. Can you give me an overview of what it entails?"
+      ],
+      "responses" : [
+        "DCIT 402 is a course typically offered to students in their final year of study, preparing them for careers in information technology management. It covers basic principles of management and their relevance to computing, functions of management (planning, organizing, staffing, directing, and controlling), leadership, motivation, and team building, organizational behavior, and information systems for decision making. The course is taught through lectures, case studies, and practical exercises, and assessed through individual assignments, group projects, laboratory exercises, and a final examination.",
+        "DCIT 402 is a course that aims to equip students with management skills relevant to the field of computing. It covers topics such as the history and evolution of management, planning and organizing, staffing and directing, controlling and evaluating, organizational behavior, and information systems for decision making. The course uses a combination of lectures, case studies, and practical exercises to teach students how to apply management principles to real-world scenarios. Assessment is done through individual assignments, group projects, laboratory exercises, and a final examination. It is typically offered to students in their final year of study and prepares them for careers in information technology management.",
+        "MANAGEMENT PRINCIPLES IN COMPUTING is a course typically offered to students in their final year of study, preparing them for careers in information technology management. It covers basic principles of management and their relevance to computing, functions of management (planning, organizing, staffing, directing, and controlling), leadership, motivation, and team building, organizational behavior, and information systems for decision making. The course is taught through lectures, case studies, and practical exercises, and assessed through individual assignments, group projects, laboratory exercises, and a final examination.",
+        "MANAGEMENT PRINCIPLES IN COMPUTING is a course that aims to equip students with management skills relevant to the field of computing. It covers topics such as the history and evolution of management, planning and organizing, staffing and directing, controlling and evaluating, organizational behavior, and information systems for decision making. The course uses a combination of lectures, case studies, and practical exercises to teach students how to apply management principles to real-world scenarios. Assessment is done through individual assignments, group projects, laboratory exercises, and a final examination. It is typically offered to students in their final year of study and prepares them for careers in information technology management."
+      ]
+    },
+    {
+      "tag" : "DCIT 402 Lecturer",
+      "patterns" : [
+        "Who is the lecturer for DCIT 402 at the University?",
+        "What is the name of the instructor who teaches DCIT 402?",
+        "Can you provide the details of the course lecturer for DCIT 402?",
+        "Who is responsible for delivering lectures in DCIT 402 at the University?",
+        "What is the identity of the professor who teaches the course with code DCIT 402?",
+        "Who is the lecturer for MANAGEMENT PRINCIPLES IN COMPUTING at the University?",
+        "What is the name of the instructor who teaches MANAGEMENT PRINCIPLES IN COMPUTING?",
+        "Can you provide the details of the course lecturer for MANAGEMENT PRINCIPLES IN COMPUTING?",
+        "Who is responsible for delivering lectures in MANAGEMENT PRINCIPLES IN COMPUTING at the University?",
+        "What is the identity of the professor who teaches the course with code MANAGEMENT PRINCIPLES IN COMPUTING?"
+      ],
+      "responses" : [
+       
+      ]
+    },
+    {
+      "tag" : "DCIT 418",
+      "patterns" : [
+        "What is DCIT 418?",
+        "What is DCIT 418 about?",
+        "Dcit 418 is?",
+        "Tell me about DCIT 418",
+        "What is the subject matter of DCIT 418?",
+        "Can you tell me what DCIT 418 covers?",
+        "I'm curious about the content of DCIT 418. What is it about?",
+        "Could you provide some information about DCIT 418?",
+        "I'm interested in DCIT 418. Can you give me an overview of what it entails?",
+        "What is SYSTEMS AND NETWORK SECURITY IN COMPUTING?",
+        "What is SYSTEMS AND NETWORK SECURITY IN COMPUTING about?",
+        "SYSTEMS AND NETWORK SECURITY IN COMPUTING is?",
+        "Tell me about SYSTEMS AND NETWORK SECURITY IN COMPUTING",
+        "What is the subject matter of SYSTEMS AND NETWORK SECURITY IN COMPUTING?",
+        "Can you tell me what SYSTEMS AND NETWORK SECURITY IN COMPUTING covers?",
+        "I'm curious about the content of SYSTEMS AND NETWORK SECURITY IN COMPUTING. What is it about?",
+        "Could you provide some information about SYSTEMS AND NETWORK SECURITY IN COMPUTING?",
+        "I'm interested in SYSTEMS AND NETWORK SECURITY IN COMPUTING. Can you give me an overview of what it entails?"
+      ],
+      "responses" : [
+        "DCIT418 is a course on Systems and Network Security that aims to provide students with a comprehensive understanding of fundamental concepts and principles of information security in computing environments. The course covers topics such as network security, system security, cryptography, access control, security management, and security policy development. The course objectives include understanding principles of information security, identifying and analyzing security risks, applying cryptographic techniques, implementing access control mechanisms, and developing security policies. The course is assessed through exams, quizzes, assignments, projects, and may include a research project. Upon completion, students should be able to identify security risks, apply cryptographic techniques, design access control mechanisms, and implement security policies. The course is graded on a standard 100-point scale with a passing grade of 50 or above.",
+        "DCIT418 is a course that focuses on Systems and Network Security, aiming to provide students with a comprehensive understanding of information security in computing environments. Topics covered include network security, system security, cryptography, access control, security management, and security policy development. The course objectives are to understand information security principles, analyze security risks, apply cryptographic techniques, implement access control mechanisms, and develop security policies. Assessment methods typically include exams, quizzes, assignments, projects, and a research project. Upon completion, students should be able to identify security risks, apply cryptographic techniques, design access control mechanisms, and implement security policies. The course is graded on a standard 100-point scale with a passing grade of 50 or above.",
+        "SYSTEMS AND NETWORK SECURITY IN COMPUTING is a course on Systems and Network Security that aims to provide students with a comprehensive understanding of fundamental concepts and principles of information security in computing environments. The course covers topics such as network security, system security, cryptography, access control, security management, and security policy development. The course objectives include understanding principles of information security, identifying and analyzing security risks, applying cryptographic techniques, implementing access control mechanisms, and developing security policies. The course is assessed through exams, quizzes, assignments, projects, and may include a research project. Upon completion, students should be able to identify security risks, apply cryptographic techniques, design access control mechanisms, and implement security policies. The course is graded on a standard 100-point scale with a passing grade of 50 or above.",
+        "SYSTEMS AND NETWORK SECURITY IN COMPUTING is a course that focuses on Systems and Network Security, aiming to provide students with a comprehensive understanding of information security in computing environments. Topics covered include network security, system security, cryptography, access control, security management, and security policy development. The course objectives are to understand information security principles, analyze security risks, apply cryptographic techniques, implement access control mechanisms, and develop security policies. Assessment methods typically include exams, quizzes, assignments, projects, and a research project. Upon completion, students should be able to identify security risks, apply cryptographic techniques, design access control mechanisms, and implement security policies. The course is graded on a standard 100-point scale with a passing grade of 50 or above."
+      ]
+    },
+    {
+      "tag" : "DCIT 418 Lecturer",
+      "patterns" : [
+        "Who is the lecturer for DCIT 418 at the University?",
+        "What is the name of the instructor who teaches DCIT 418?",
+        "Can you provide the details of the course lecturer for DCIT 418?",
+        "Who is responsible for delivering lectures in DCIT 418 at the University?",
+        "What is the identity of the professor who teaches the course with code DCIT 418?",
+        "Who is the lecturer for SYSTEMS AND NETWORK SECURITY IN COMPUTING at the University?",
+        "What is the name of the instructor who teaches SYSTEMS AND NETWORK SECURITY IN COMPUTING?",
+        "Can you provide the details of the course lecturer for SYSTEMS AND NETWORK SECURITY IN COMPUTING?",
+        "Who is responsible for delivering lectures in SYSTEMS AND NETWORK SECURITY IN COMPUTING at the University?",
+        "What is the identity of the professor who teaches the course with code SYSTEMS AND NETWORK SECURITY IN COMPUTING?"
+      ],
+      "responses" : [
+       
+      ]
     }
   ]
 }
