@@ -1,51 +1,68 @@
 class Chatbox {
-  constructor(name) {
+  constructor() {
     this.args = {
       openButton: document.querySelector(".chatbox__button"),
       chatBox: document.querySelector(".chatbox__support"),
+      inputField: document.querySelector("input"),
       sendButton: document.querySelector(".send__button"),
     };
 
+    this.userName = "";
     this.chatName = "Sam";
     this.state = false;
     this.messages = [];
   }
 
   display() {
-    const { openButton, chatBox, sendButton } = this.args;
+    const { openButton, sendButton, inputField } = this.args;
+    this.toggleState();
 
-    openButton.addEventListener("click", () => this.toggleState(chatBox));
-
-    sendButton.addEventListener("click", () => this.onSendButton(chatBox));
-
-    const node = chatBox.querySelector("input");
-    node.addEventListener("keyup", ({ key }) => {
-      if (key === "Enter") {
-        this.onSendButton(chatBox);
-      }
-    });
+    openButton.addEventListener("click", () => this.toggleState());
+    sendButton.addEventListener("click", (listner) => this.checkInput(listner));
+    inputField.addEventListener("keyup", (listner) => this.checkInput(listner));
   }
 
-  toggleState(chatbox) {
-    this.state = !this.state;
-
-    // show or hides the box
-    if (this.state) {
-      chatbox.classList.add("chatbox--active");
-    } else {
-      chatbox.classList.remove("chatbox--active");
-    }
-  }
-
-  async onSendButton(chatbox) {
-    let textField = chatbox.querySelector("input");
-    let { value } = textField;
+  checkInput(listner) {
+    const { inputField } = this.args;
+    const { type, key } = listner;
+    let value = inputField.value.trim();
 
     if (!value) return this;
 
-    let data = { name: "User", message: value };
-    this.messages.push(data);
+    let message = { name: this.userName, message: value };
 
+    if (type === "click" || key === "Enter") {
+      if (!this.userName) {
+        this.userName = value;
+        message.name = value;
+
+        this.updateChatText(message);
+      } else {
+        this.updateChatText(message);
+        this.onSendButton(message);
+      }
+
+      inputField.placeholder = "Write a message...";
+      inputField.value = "";
+    }
+    return this;
+  }
+
+  toggleState() {
+    const { chatBox } = this.args;
+
+    this.state = !this.state;
+
+    if (this.state) {
+      chatBox.classList.add("chatbox--active");
+    } else {
+      chatBox.classList.remove("chatbox--active");
+    }
+
+    return this;
+  }
+
+  async onSendButton(data) {
     const requestConfig = {
       url: "https://276a-197-251-176-48.ngrok-free.app/chat",
       method: "POST",
@@ -60,18 +77,23 @@ class Chatbox {
         const { answer } = data;
         let returnMessage = { name: this.chatName, message: answer };
         this.messages.push(returnMessage);
-        this.updateChatText(chatbox);
-        textField.value = "";
+        this.updateChatText(returnMessage);
       })
       .catch((error) => {
         console.error("Error:", error);
-        this.updateChatText(chatbox);
-        textField.value = "";
+        this.updateChatText({
+          name: this.chatName,
+          message: "Error occured..",
+        });
       });
+
     return this;
   }
 
-  updateChatText(chatbox) {
+  updateChatText(newMessage) {
+    this.messages.push(newMessage);
+    const { chatBox } = this.args;
+
     let html = "";
     this.messages
       .slice()
@@ -92,11 +114,11 @@ class Chatbox {
         }
       });
 
-    const chatmessage = chatbox.querySelector(".chatbox__messages");
+    const chatmessage = chatBox.querySelector(".chatbox__messages");
     chatmessage.innerHTML = html;
+
     return this;
   }
 }
 
-const chatbox = new Chatbox();
-chatbox.display();
+new Chatbox().display();
