@@ -7,6 +7,7 @@ class Chatbox {
       sendButton: document.querySelector(".send__button"),
     };
 
+    this.baseUrl = "https://5897-154-160-14-213.ngrok-free.app/chat";
     this.userName = "";
     this.chatName = "Sam";
     this.state = false;
@@ -15,7 +16,6 @@ class Chatbox {
 
   display() {
     const { openButton, sendButton, inputField } = this.args;
-    this.toggleState();
 
     openButton.addEventListener("click", () => this.toggleState());
     sendButton.addEventListener("click", (listner) => this.checkInput(listner));
@@ -48,23 +48,9 @@ class Chatbox {
     return this;
   }
 
-  toggleState() {
-    const { chatBox } = this.args;
-
-    this.state = !this.state;
-
-    if (this.state) {
-      chatBox.classList.add("chatbox--active");
-    } else {
-      chatBox.classList.remove("chatbox--active");
-    }
-
-    return this;
-  }
-
   async onSendButton(data) {
     const requestConfig = {
-      url: "http://localhost:5000/chat",
+      url: this.baseUrl,
       method: "POST",
       mode: 'cors',
       headers: {
