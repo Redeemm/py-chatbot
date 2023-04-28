@@ -64,8 +64,9 @@ class Chatbox {
 
   async onSendButton(data) {
     const requestConfig = {
-      url: "https://276a-197-251-176-48.ngrok-free.app/chat",
+      url: "http://localhost:5000/chat",
       method: "POST",
+      mode: 'cors',
       headers: {
         "Content-Type": "application/json",
       },
@@ -76,7 +77,6 @@ class Chatbox {
       .then(({ data }) => {
         const { answer } = data;
         let returnMessage = { name: this.chatName, message: answer };
-        this.messages.push(returnMessage);
         this.updateChatText(returnMessage);
       })
       .catch((error) => {

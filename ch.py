@@ -1,4 +1,5 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify
+from flask_cors import CORS
 import random
 import json
 import torch
@@ -8,6 +9,7 @@ from model import NeuralNet
 from nltk_utils import bag_of_words, tokenize
 
 app = Flask(__name__)
+CORS(app)
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -29,10 +31,6 @@ model.load_state_dict(model_state)
 model.eval()
 
 bot_name = "Sam"
-
-@app.get("/")
-def index_get():
-    return render_template("base.html")
 
 @app.route('/chat', methods=['POST'])
 def chat():

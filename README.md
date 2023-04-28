@@ -24,6 +24,22 @@ You also need `nltk`:
 pip install nltk
  ```
 
+  ```console
+pip install torch
+ ```
+
+  ```console
+pip install numpy
+ ```
+
+  ```console
+pip install flask
+ ```
+
+ ```console
+ pip install -U flask-cors
+ ```
+
 If you get an error during the first run, you also need to install `nltk.tokenize.punkt`:
 Run this once in your terminal:
  ```console
