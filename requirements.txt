@@ -1,9 +1,9 @@
-pip install nltk
-pip install numpy
-pip install torch
-pip install numpy
-pip install flask
-pip install -U flask-cors
-python train.py
-python ch.py
-/opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
+nltk
+numpy
+torch
+numpy
+flask
+-U flask-cors
+# python train.py
+# python ch.py
+/opt/render/project/src/.venv/bin/python -m --upgrade pip
