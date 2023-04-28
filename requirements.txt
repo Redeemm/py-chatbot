@@ -1,0 +1,8 @@
+pip install nltk
+pip install numpy
+pip install torch
+pip install numpy
+pip install flask
+pip install -U flask-cors
+python train.py
+python ch.py
