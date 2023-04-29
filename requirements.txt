@@ -6,4 +6,4 @@ flask
 flask-cors
 # python train.py
 # python ch.py
-/opt/render/project/src/.venv/bin/python -m --upgrade pip
+# /opt/render/project/src/.venv/bin/python -m --upgrade pip
