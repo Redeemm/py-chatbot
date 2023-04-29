@@ -348,6 +348,1103 @@
       "responses" : [
        
       ]
+    },
+    {
+      "tag" : "DCIT 101 Introduction to Computer Science",
+      "patterns" : [
+        "What is DCIT 101 about?",
+        "Tell me what  Introduction to Computer Science is about?",
+        "What is  DCIT 101:Introduction to Computer Science?",
+        "About DCIT 101?",
+        "Introduction to Computer Science course?",
+        "Give me details about DCIT 101 : Introduction to Computer Science course?"
+      ],
+      "responses" : [
+        "This course provides a broad survey introducing the key areas the computer science discipline and information technology discipline. It introduces computers and how they work, their classification and historical development. Topics covered will include Application of computers; Data representation in Computers; Peripherals; Files; Systems Engineering; Databases; Computer architecture; Assembly language; Data Communications and networking; Systems software; Programming concepts in very accessible language Python; Algorithms and data structures; The internet and Web Technology. Programming assignments are inspired by real-world domains of cryptography, forensics, gaming and finance."
+      ]
+    },
+    {
+      "tag" : "DCIT 102 Computer Hardware and Circuits",
+      "patterns" : [
+        "What is DCIT 102?",
+        "What is DCIT 102 about?",
+        "DCIT 102 is?",
+        "Tell me about DCIT 102",
+        "What is the subject matter of DCIT 102?",
+        "Can you tell me what DCIT 102 covers?",
+        "I'm curious about the content of DCIT 102. What is it about?",
+        "Could you provide some information about DCIT 102?",
+        "I'm interested in DCIT 102. Can you give me an overview of what it entails?",
+        "What is Computer Hardware and Circuits?",
+        "What is Computer Hardware and Circuits about?",
+        "Computer Hardware and Circuits is?",
+        "Tell me about Computer Hardware and Circuits",
+        "What is the subject matter of Computer Hardware and Circuits?",
+        "Can you tell me what Computer Hardware and Circuits covers?",
+        "I'm curious about the content of Computer Hardware and Circuits. What is it about?",
+        "Could you provide some information about Computer Hardware and Circuits?",
+        "I'm interested in Computer Hardware and Circuits. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"It provides comprehensive understanding of the essential components associated with computers with a focus on PCs. Topics include: The microprocessor, motherboard, memory, graphics and sound adapters, I/O devices storage and circuit theory. An overview of operating systems and other software, as well as the various methods used to connect computers to each other and the Internet, are presented. The course also addresses recent advances in computer architectures and computer hardware and how they affect computer performance. Presentations of actual hardware are included so that students can gain experience in identifying the various internal and external components of a PC."     
+ ]
+    },
+    {
+      "tag" : "DCIT 103 Office Productivity Tools",
+      "patterns" : [
+        "What is DCIT 103?",
+        "What is DCIT 103 about?",
+        "DCIT 103 is?",
+        "Tell me about DCIT 103",
+        "What is the subject matter of DCIT 103?",
+        "Can you tell me what DCIT 103 covers?",
+        "I'm curious about the content of DCIT 103. What is it about?",
+        "Could you provide some information about DCIT 103?",
+        "I'm interested in DCIT 103. Can you give me an overview of what it entails?",
+        "What is Office Productivity Tools?",
+        "What is Office Productivity Tools about?",
+        "Office Productivity Tools is?",
+        "Tell me about Office Productivity Tools",
+        "What is the subject matter of Office Productivity Tools?",
+        "Can you tell me what Office Productivity Tools covers?",
+        "I'm curious about the content of Office Productivity Tools. What is it about?",
+        "Could you provide some information about Office Productivity Tools?",
+        "I'm interested in Office Productivity Tools. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course teaches use of office productivity tools. Microsoft Office 2016 software products Word, Excel, Outlook, and PowerPoint will be taught in depth. Topics include: Word– creating documents text editing, formatting, saving, and printing, creating table of contents; commenting tools, proofing, tracking; Excel- creating spreadsheets, data entry, formatting, formulas, functions, tables and performing calculations on data, charts and graphics, dynamic worksheets using pivot tables, macros; Outlook- setting up Outlook server, managing email messages, contacts, appointments and tasks, and efficiency and customization; PowerPoint- creating slide presentations using design templates, formatting, graphics, animations, presentation, add sounds and graphics, visual elements, and tables."
+ ]
+    },
+    {
+      "tag" : "DCIT 104 Programming Fundamentals",
+      "patterns" : [
+        "What is DCIT 104?",
+        "What is DCIT 104 about?",
+        "DCIT 104 is?",
+        "Tell me about DCIT 104",
+        "What is the subject matter of DCIT 104?",
+        "Can you tell me what DCIT 104 covers?",
+        "I'm curious about the content of DCIT 104. What is it about?",
+        "Could you provide some information about DCIT 104?",
+        "I'm interested in DCIT 104. Can you give me an overview of what it entails?",
+        "What is Programming Fundamentals?",
+        "What is Programming Fundamentals about?",
+        "Programming Fundamentals is?",
+        "Tell me about Programming Fundamentals",
+        "What is the subject matter of Programming Fundamentals?",
+        "Can you tell me what Programming Fundamentals covers?",
+        "I'm curious about the content of Programming Fundamentals. What is it about?",
+        "Could you provide some information about Programming Fundamentals?",
+        "I'm interested in Programming Fundamentals. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"Problem Solving and Programming are essential skills for IT students and IT professionals. Learning how to solve a problem using a structured programming language provides a strong foundation for a successful career. Designing of solutions to problems using procedural techniques and deciding on an appropriate repetition and/or selection structures for given problems will be covered. Topics Include: The importance of algorithms in the problem-solving process; Properties of good algorithms, Algorithms for solving simple problems; the use of a programming language to implement, test, and debug algorithms for solving simple problems, data definition, control structures, functions, arrays, pointers and strings."
+      ]
+    },
+     {
+      "tag" : "MATH 121 Algebra and Trigonometry",
+      "patterns" : [
+        "What is MATH 121?",
+        "What is MATH 121 about?",
+        "MATH 121 is?",
+        "Tell me about MATH 121",
+        "What is the subject matter of MATH 121?",
+        "Can you tell me what MATH 121 covers?",
+        "I'm curious about the content of MATH 121. What is it about?",
+        "Could you provide some information about MATH 121?",
+        "I'm interested in MATH 121. Can you give me an overview of what it entails?",
+        "What is Algebra and Trigonometry?",
+        "What is Algebra and Trigonometry about?",
+        "Algebra and Trigonometry is?",
+        "Tell me about Algebra and Trigonometry",
+        "What is the subject matter of Algebra and Trigonometry?",
+        "Can you tell me what Algebra and Trigonometry covers?",
+        "I'm curious about the content of Algebra and Trigonometry. What is it about?",
+        "Could you provide some information about Algebra and Trigonometry?",
+        "I'm interested in Algebra and Trigonometry. Can you give me an overview of what it entails?"
+      
+   
+      ],
+      "responses" : [
+"This course is a precalculus course which aims to develop the students’ ability to think logically, use sound mathematical reasoning and understand the geometry in algebra. It includes advanced levels of topics addressed in high school such as arrangements, selections and the binomial theorem. Sequences and series. Logic and Proof. Set theory. Indices, logarithms and the algebra of surds. Concept of a function. Trigonometric functions, their inverses, their graphs, circular measure and trigonometric identities. "
+      ]
+    },
+    {
+      "tag" : "MATH 123 Vectors and Geometry",
+      "patterns" : [
+        "What is MATH 123?",
+        "What is MATH 123 about?",
+        "MATH 123 is?",
+        "Tell me about MATH 123",
+        "What is the subject matter of MATH 123?",
+        "Can you tell me what MATH 123 covers?",
+        "I'm curious about the content of MATH 123. What is it about?",
+        "Could you provide some information about MATH 123?",
+        "I'm interested in MATH 123. Can you give me an overview of what it entails?",
+        "What is Vectors and Geometry?",
+        "What is Vectors and Geometry about?",
+        "Vectors and Geometry is?",
+        "Tell me about Vectors and Geometry",
+        "What is the subject matter of Vectors and Geometry?",
+        "Can you tell me what Vectors and Geometry covers?",
+        "I'm curious about the content of Vectors and Geometry. What is it about?",
+        "Could you provide some information about Vectors and Geometry?",
+        "I'm interested in Vectors and Geometry. Can you give me an overview of what it entails?"
+      
+   
+      ],
+      "responses" : [
+"Vectors may be used very neatly to prove several theorems of geometry. This course is about applying vector operations and the method of mathematical proof (of MATH 121) to geometric problems. The areas of study include: vector operations with geometric examples; components of a vector and the scalar product of vectors. Coordinate geometry in the plane including normal vector to a line, angle between intersecting lines, reflection in a line, angle bisectors and the equation of a circle, the tangent and the normal at a point."
+      ]
+    },
+    {
+      "tag" : "MATH 122 Calculus I",
+      "patterns" : [
+        "What is MATH 122?",
+        "What is MATH 122 about?",
+        "MATH 122 is?",
+        "Tell me about MATH 122",
+        "What is the subject matter of MATH 122?",
+        "Can you tell me what MATH 122 covers?",
+        "I'm curious about the content of MATH 122. What is it about?",
+        "Could you provide some information about MATH 122?",
+        "I'm interested in MATH 122. Can you give me an overview of what it entails?",
+        "What is Calculus I?",
+        "What is Calculus I about?",
+        "Calculus I is?",
+        "Tell me about Calculus I",
+        "What is the subject matter of Calculus I?",
+        "Can you tell me what Calculus I covers?",
+        "I'm curious about the content of Calculus I. What is it about?",
+        "Could you provide some information about Calculus I?",
+        "I'm interested in Calculus I. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"Elementary idea of limit, continuity and derivative of a function. Rules of differentiation. Applications of differentiation. Derivative of the elementary and transcendental functions. Methods of integration. Improper integrals. Applications of integration. Formation of differential equations and solution of first order differential equations both separable variable type and using an integrating factor."
+    ]
+    },
+    {
+      "tag" : "CSIT 104 Mathematics for IT Professionals",
+      "patterns" : [
+        "What is CSIT 104?",
+        "What is CSIT 104 about?",
+        "CSIT 104 is?",
+        "Tell me about CSIT 104",
+        "What is the subject matter of CSIT 104?",
+        "Can you tell me what CSIT 104 covers?",
+        "I'm curious about the content of CSIT 104. What is it about?",
+        "Could you provide some information about CSIT 104?",
+        "I'm interested in CSIT 104. Can you give me an overview of what it entails?",
+        "What is Mathematics for IT Professionals?",
+        "What is Mathematics for IT Professionals about?",
+        "Mathematics for IT Professionals is?",
+        "Tell me about Mathematics for IT Professionals",
+        "What is the subject matter of Mathematics for IT Professionals?",
+        "Can you tell me what Mathematics for IT Professionals covers?",
+        "I'm curious about the content of Mathematics for IT Professionals. What is it about?",
+        "Could you provide some information about Mathematics for IT Professionals?",
+        "I'm interested in Mathematics for IT Professionals. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course will cover some particularly important concepts used in computer science. Graph theory concepts are used in networks, operating systems, and compilers. Set theory concepts are used in software engineering and in databases. Topics to be covered include Sets Venn diagrams, Cartesian product, Power sets, Cardinality of finite sets; Relations, Reflexivity, symmetry, partial orders; Functions, Surjections, injections, bijections, Inverses, Composition; Trees, Properties, Traversal strategies, Undirected graphs, Directed graphs, Weighted graphs, Spanning trees/forests, Graph isomorphism; Counting arguments, Set cardinality and counting, Sum and product rule, Inclusion-exclusion principle, Arithmetic and geometric progressions, The pigeonhole principle, Permutations and combinations, Pascal’s identity. "
+    ]
+    },
+    {
+      "tag" : "MATH 126 Algebra and Geometry",
+      "patterns" : [
+        "What is MATH 126?",
+        "What is MATH 126 about?",
+        "MATH 126 is?",
+        "Tell me about MATH 126",
+        "What is the subject matter of MATH 126?",
+        "Can you tell me what MATH 126 covers?",
+        "I'm curious about the content of MATH 126. What is it about?",
+        "Could you provide some information about MATH 126?",
+        "I'm interested in MATH 126. Can you give me an overview of what it entails?",
+        "What is Algebra and Geometry?",
+        "What is Algebra and Geometry about?",
+        "Algebra and Geometry is?",
+        "Tell me about Algebra and Geometry",
+        "What is the subject matter of Algebra and Geometry?",
+        "Can you tell me what Algebra and Geometry covers?",
+        "I'm curious about the content of Algebra and Geometry. What is it about?",
+        "Could you provide some information about Algebra and Geometry?",
+        "I'm interested in Algebra and Geometry. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This is a course which highlights the interplay of algebra and geometry. It includes topics such as: polar coordinates; conic sections. Complex numbers, Argand diagram, DeMoivre's theorem, roots of unity. Algebra of matrices and determinants, linear transformations. Transformations of the complex plane. Sketching polar curves and some coordinate geometry in 3 dimensions. Vector product and triple products. "
+    ]
+    },
+     {
+      "tag" : "STAT 111 Introduction to Statistics and Probability I",
+      "patterns" : [
+        "What is STAT 111?",
+        "What is STAT 111 about?",
+        "STAT 111 is?",
+        "Tell me about STAT 111",
+        "What is the subject matter of STAT 111?",
+        "Can you tell me what STAT 111 covers?",
+        "I'm curious about the content of STAT 111. What is it about?",
+        "Could you provide some information about STAT 111?",
+        "I'm interested in STAT 111. Can you give me an overview of what it entails?",
+        "What is Introduction to Statistics and Probability I?",
+        "What is Introduction to Statistics and Probability I about?",
+        "Introduction to Statistics and Probability I is?",
+        "Tell me about Introduction to Statistics and Probability I",
+        "What is the subject matter of Introduction to Statistics and Probability I?",
+        "Can you tell me what Introduction to Statistics and Probability I covers?",
+        "I'm curious about the content of Introduction to Statistics and Probability I. What is it about?",
+        "Could you provide some information about Introduction to Statistics and Probability I?",
+        "I'm interested in Introduction to Statistics and Probability I. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course introduces students to basic principles in Statistics and Probability. The definition, reduction and interpretation of data. Introduction to basic concepts of Probability; Random Events and Random Variables, and Bayes Theorem. Students will be given overview of computational statistics and an introduction to the computing environment. The statistical software (R, Minitab and Stata) will be used to execute concepts learned in class. Methods of data description and analysis using R, Minitab and Stata: emphasis on learning statistical methods and concepts through hands-on experience with real data. One-hour Lab session a week will be organized for students."
+    ]
+    },
+    {
+      "tag" : "DCIT 200 Internship",
+      "patterns" : [
+        "What is DCIT 200?",
+        "What is DCIT 200 about?",
+        "DCIT 200 is?",
+        "Tell me about DCIT 200",
+        "What is the subject matter of DCIT 200?",
+        "Can you tell me what DCIT 200 covers?",
+        "I'm curious about the content of DCIT 200. What is it about?",
+        "Could you provide some information about DCIT 200?",
+        "I'm interested in DCIT 200. Can you give me an overview of what it entails?",
+        "What is Internship?",
+        "What is Internship about?",
+        "Internship is?",
+        "Tell me about Internship",
+        "What is the subject matter of Internship?",
+        "Can you tell me what Internship covers?",
+        "I'm curious about the content of Internship. What is it about?",
+        "Could you provide some information about Internship?",
+        "I'm interested in Internship. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"Student in is now being recognized as adding value to student education. This non-scoring course provides students with opportunity to gain practical insight into the working world. Students will be encouraged to seek internship opportunities with companies. The idea is that this will help them come up with practical ideas for their project work."
+      ]
+    },
+    {
+      "tag" : "DCIT 201 Programming I",
+      "patterns" : [
+        "What is DCIT 201?",
+        "What is DCIT 201 about?",
+        "DCIT 201 is?",
+        "Tell me about DCIT 201",
+        "What is the subject matter of DCIT 201?",
+        "Can you tell me what DCIT 201 covers?",
+        "I'm curious about the content of DCIT 201. What is it about?",
+        "Could you provide some information about DCIT 201?",
+        "I'm interested in DCIT 201. Can you give me an overview of what it entails?",
+        "What is Programming I?",
+        "What is Programming I about?",
+        "Programming I is?",
+        "Tell me about Programming I",
+        "What is the subject matter of Programming I?",
+        "Can you tell me what Programming I covers?",
+        "I'm curious about the content of Programming I. What is it about?",
+        "Could you provide some information about Programming I?",
+        "I'm interested in Programming I. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course is expected to give students the understanding of object-oriented methodology, the approach to modular and reusable software systems. Object orientation will be discussed from ground up, pointing out and explaining key concepts of object orientation, its justification and how it is applied in Software Engineering. Students will be exposed to at least four language implementation to the covered principles and concepts- Java, C#, Python and PHP. Topics include: Classes and Objects, Object Design and Programming – Encapsulation, Abstraction, Inheritance, Polymorphism, Composition, Aggregation, Method overloading, Interfaces, Exception Handling, Collections, etc. This course will ensure that students have adequate practical exposure."
+      ]
+    },
+    {
+      "tag" : "DCIT 202 Mobile Application Development",
+      "patterns" : [
+        "What is DCIT 202?",
+        "What is DCIT 202 about?",
+        "DCIT 202 is?",
+        "Tell me about DCIT 202",
+        "What is the subject matter of DCIT 202?",
+        "Can you tell me what DCIT 202 covers?",
+        "I'm curious about the content of DCIT 202. What is it about?",
+        "Could you provide some information about DCIT 202?",
+        "I'm interested in DCIT 202. Can you give me an overview of what it entails?",
+        "What is Mobile Application Development?",
+        "What is Mobile Application Development about?",
+        "Mobile Application Development is?",
+        "Tell me about Mobile Application Development",
+        "What is the subject matter of Mobile Application Development?",
+        "Can you tell me what Mobile Application Development covers?",
+        "I'm curious about the content of Mobile Application Development. What is it about?",
+        "Could you provide some information about Mobile Application Development?",
+        "I'm interested in Mobile Application Development. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course studies the design and implementation of mobile applications for popular platforms including Blackberry, Android and Apple devices. The course will provide an overview of the various mobile platforms but will focus on developing applications for iPhone, iPod Touch and iPad. Programming topics covered will include an introduction to Objective-C, the XCode IDE and will focus on designing, implementing and running applications using the simulator for the various Apple devices. Students will leverage their object oriented programming skills for such things classes, objects, inheritance, exception handling, and graphical user interface design. "
+      ]
+    },
+    {
+      "tag" : "DCIT 203 Digital and Logic Systems Design",
+      "patterns" : [
+        "What is DCIT 203?",
+        "What is DCIT 203 about?",
+        "DCIT 203 is?",
+        "Tell me about DCIT 203",
+        "What is the subject matter of DCIT 203?",
+        "Can you tell me what DCIT 203 covers?",
+        "I'm curious about the content of DCIT 203. What is it about?",
+        "Could you provide some information about DCIT 203?",
+        "I'm interested in DCIT 203. Can you give me an overview of what it entails?",
+        "What is Digital and Logic Systems Design?",
+        "What is Digital and Logic Systems Design about?",
+        "Digital and Logic Systems Design is?",
+        "Tell me about Digital and Logic Systems Design",
+        "What is the subject matter of Digital and Logic Systems Design?",
+        "Can you tell me what Digital and Logic Systems Design covers?",
+        "I'm curious about the content of Digital and Logic Systems Design. What is it about?",
+        "Could you provide some information about Digital and Logic Systems Design?",
+        "I'm interested in Digital and Logic Systems Design. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course will provide an overview of principles and Techniques of modern digital systems. This course exposes individuals to a wide array of classic as well as state of the art digital electronics technology. Topics Include: Introduction to numbers systems and codes, logics circuits, combinational and sequential logic, storage elements, digital arithmetic, integrated circuit logic families. An Overview of Technologies and Application of wide array of digital components used within state of the art IT Systems. An understanding of the applications of such digital devices embedded within telecommunications systems, storage systems, computing systems, multimedia systems, and computer networks."
+      ]
+    },
+    {
+      "tag" : "DCIT 204 Data Structures and Algorithms I",
+      "patterns" : [
+        "What is DCIT 204?",
+        "What is DCIT 204 about?",
+        "DCIT 204 is?",
+        "Tell me about DCIT 204",
+        "What is the subject matter of DCIT 204?",
+        "Can you tell me what DCIT 204 covers?",
+        "I'm curious about the content of DCIT 204. What is it about?",
+        "Could you provide some information about DCIT 204?",
+        "I'm interested in DCIT 204. Can you give me an overview of what it entails?",
+        "What is Data Structures and Algorithms I?",
+        "What is Data Structures and Algorithms I about?",
+        "Data Structures and Algorithms I is?",
+        "Tell me about Data Structures and Algorithms I",
+        "What is the subject matter of Data Structures and Algorithms I?",
+        "Can you tell me what Data Structures and Algorithms I covers?",
+        "I'm curious about the content of Data Structures and Algorithms I. What is it about?",
+        "Could you provide some information about Data Structures and Algorithms I?",
+        "I'm interested in Data Structures and Algorithms I. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course focuses on the fundamentals of computer algorithms, emphasizing methods useful in practice. Using the big-O notation, algorithms are classified by their efficiency. We look into basic algorithm strategies and approaches to problem solving. Some of these approaches include the divide and conquer method, dynamic programming, and greedy programming paradigms. Sorting and searching algorithms are discussed in detail as they form part of a solution to a large number of problems solved using computers. The course also provides an introduction to the graph theory and graph algorithms as they are also used in many computer-based applications today."
+      ]
+    },
+    {
+      "tag" : "DCIT 205 Multimedia and Web Design",
+      "patterns" : [
+        "What is DCIT 205?",
+        "What is DCIT 205 about?",
+        "DCIT 205 is?",
+        "Tell me about DCIT 205",
+        "What is the subject matter of DCIT 205?",
+        "Can you tell me what DCIT 205 covers?",
+        "I'm curious about the content of DCIT 205. What is it about?",
+        "Could you provide some information about DCIT 205?",
+        "I'm interested in DCIT 205. Can you give me an overview of what it entails?",
+        "What is Multimedia and Web Design?",
+        "What is Multimedia and Web Design about?",
+        "Multimedia and Web Design is?",
+        "Tell me about Multimedia and Web Design",
+        "What is the subject matter of Multimedia and Web Design?",
+        "Can you tell me what Multimedia and Web Design covers?",
+        "I'm curious about the content of Multimedia and Web Design. What is it about?",
+        "Could you provide some information about Multimedia and Web Design?",
+        "I'm interested in Multimedia and Web Design. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course delivers sound training in the latest web technologies that are relevant to build modern and feature-rich web applications. It provides insight into state-of-the-art web design practice and introduces emerging topics in web development, such as package management and version control. The course features an introduction to the building blocks of the web – HTML, CSS and JavaScript. Topic include: Introduction to HTML, CSS and JavaScript, understanding frameworks and tools for modern web development, exploring CSS frameworks – bootstrap and foundation, exploring JavaScript frameworks – VueJS, AngularJS, ReactJS, NodeJS, package management with npm and a gentle introduction to version control using github."
+      ]
+    },
+    {
+      "tag" : "DCIT 206 Systems Administration",
+      "patterns" : [
+        "What is DCIT 206?",
+        "What is DCIT 206 about?",
+        "DCIT 206 is?",
+        "Tell me about DCIT 206",
+        "What is the subject matter of DCIT 206?",
+        "Can you tell me what DCIT 206 covers?",
+        "I'm curious about the content of DCIT 206. What is it about?",
+        "Could you provide some information about DCIT 206?",
+        "I'm interested in DCIT 206. Can you give me an overview of what it entails?",
+        "What is Systems Administration?",
+        "What is Systems Administration about?",
+        "Systems Administration is?",
+        "Tell me about Systems Administration",
+        "What is the subject matter of Systems Administration?",
+        "Can you tell me what Systems Administration covers?",
+        "I'm curious about the content of Systems Administration. What is it about?",
+        "Could you provide some information about Systems Administration?",
+        "I'm interested in Systems Administration. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course provides students with the skills and concepts that are essential to the administration of operating systems, networks, software, file systems, file servers, web systems, database systems, and system documentation, policies, and procedures. This also includes education and support of the users of these systems. Topics include: Installation,Configuration,Maintenance (service packs, patches) Server services, Client services Support, Installation Configuration, Server services (database, web, network services, Content management and deployment, Server administration and management,User and group management,Backup management,Security management,Disaster recovery,Resource management,Automation management."
+      ]
+    },
+    {
+      "tag" : "DCIT 208 Software Engineering",
+      "patterns" : [
+        "What is DCIT 208?",
+        "What is DCIT 208 about?",
+        "DCIT 208 is?",
+        "Tell me about DCIT 208",
+        "What is the subject matter of DCIT 208?",
+        "Can you tell me what DCIT 208 covers?",
+        "I'm curious about the content of DCIT 208. What is it about?",
+        "Could you provide some information about DCIT 208?",
+        "I'm interested in DCIT 208. Can you give me an overview of what it entails?",
+        "What is Software Engineering?",
+        "What is Software Engineering about?",
+        "Software Engineering is?",
+        "Tell me about Software Engineering",
+        "What is the subject matter of Software Engineering?",
+        "Can you tell me what Software Engineering covers?",
+        "I'm curious about the content of Software Engineering. What is it about?",
+        "Could you provide some information about Software Engineering?",
+        "I'm interested in Software Engineering. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"The course covers the basics of software engineering. The basic foundation and concepts are to be covered. This course covers the software development process, from software characteristics to programming practices. A variety of concepts, principles, techniques, and tools are presented, encompassing topics are Characteristics of Software, software environments, major players in software engineering, software myths, software realities, product vs processes, Risks, project lifecycles, software processes, project management, people management, software requirements, analysis and specification, design software requirements, system models, architectural and detailed design, user interface design, programming practices."
+      ]
+    },
+    {
+      "tag" : "DCIT 209 E-Business Architectures",
+      "patterns" : [
+        "What is DCIT 209?",
+        "What is DCIT 209 about?",
+        "DCIT 209 is?",
+        "Tell me about DCIT 209",
+        "What is the subject matter of DCIT 209?",
+        "Can you tell me what DCIT 209 covers?",
+        "I'm curious about the content of DCIT 209. What is it about?",
+        "Could you provide some information about DCIT 209?",
+        "I'm interested in DCIT 209. Can you give me an overview of what it entails?",
+        "What is E-Business Architectures?",
+        "What is E-Business Architectures about?",
+        "E-Business Architectures is?",
+        "Tell me about E-Business Architectures",
+        "What is the subject matter of E-Business Architectures?",
+        "Can you tell me what E-Business Architectures covers?",
+        "I'm curious about the content of E-Business Architectures. What is it about?",
+        "Could you provide some information about E-Business Architectures?",
+        "I'm interested in E-Business Architectures. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course will introduce the concepts, vocabulary, and procedures associated with E-Commerce and the Internet. Student shall be introduced to the fundamentals of e-buisness and its relevance to modern business. Topics will include: the evolution of the Internet and E-Commerce, features of Web sites and the tools used to build an E-Commerce web site, marketing issues, payment options, security issues, and customer service. B2B, B2C, E-commerce, supply-chain, emerging business models shall also be discussed."
+      ]
+    },
+    {
+      "tag" : "DCIT 212 Numerical and Computational Methods",
+      "patterns" : [
+        "What is DCIT 212?",
+        "What is DCIT 212 about?",
+        "DCIT 212 is?",
+        "Tell me about DCIT 212",
+        "What is the subject matter of DCIT 212?",
+        "Can you tell me what DCIT 212 covers?",
+        "I'm curious about the content of DCIT 212. What is it about?",
+        "Could you provide some information about DCIT 212?",
+        "I'm interested in DCIT 212. Can you give me an overview of what it entails?",
+        "What is Numerical and Computational Methods?",
+        "What is Numerical and Computational Methods about?",
+        "Numerical and Computational Methods is?",
+        "Tell me about Numerical and Computational Methods",
+        "What is the subject matter of Numerical and Computational Methods?",
+        "Can you tell me what Numerical and Computational Methods covers?",
+        "I'm curious about the content of Numerical and Computational Methods. What is it about?",
+        "Could you provide some information about Numerical and Computational Methods?",
+        "I'm interested in Numerical and Computational Methods. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course will study iterative methods for solving nonlinear equations; direct and iterative methods for solving linear systems; approximations of functions, derivatives, and integrals; error analysis. The course will take students through Solving Numerical Algebraic and Transcendental Equations, Bisection Methods, False Position Method, Newton Raphson Method, Successive Approximation Method, Simultaneous Linear Algebraic Equations, Gauss Elimination Method, Jacobi Method. There will also be a significant programming component in the course. Students will be expected to implement a range of numerical methods in homework assignments to get hands-on experience with modern scientific computing. In-class demos will be performed with Matlab and/or Python. "
+      ]
+    },
+    {
+      "tag" : "DCIT 214 Information Modeling and Specification",
+      "patterns" : [
+        "What is DCIT 214?",
+        "What is DCIT 214 about?",
+        "DCIT 214 is?",
+        "Tell me about DCIT 214",
+        "What is the subject matter of DCIT 214?",
+        "Can you tell me what DCIT 214 covers?",
+        "I'm curious about the content of DCIT 214. What is it about?",
+        "Could you provide some information about DCIT 214?",
+        "I'm interested in DCIT 214. Can you give me an overview of what it entails?",
+        "What is Information Modeling and Specification?",
+        "What is Information Modeling and Specification about?",
+        "Information Modeling and Specification is?",
+        "Tell me about Information Modeling and Specification",
+        "What is the subject matter of Information Modeling and Specification?",
+        "Can you tell me what Information Modeling and Specification covers?",
+        "I'm curious about the content of Information Modeling and Specification. What is it about?",
+        "Could you provide some information about Information Modeling and Specification?",
+        "I'm interested in Information Modeling and Specification. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"The course introduces the area of database systems. The course will tackle modeling issues and the translation of models into relational tables. We will introduce the basics of querying databases and, in particular we will see the syntax and composition of SQL queries. At the end of this course students should understand the role of analysis and design in the software engineering lifecycle, develop object-oriented designs by applying established design principles, develop use-case and scenario descriptions of the requirements, develop descriptions of design models using UML diagrams, understand the role and influence of design patterns and frameworks in software design."
+      ]
+    },
+    {
+      "tag" : "DCIT 301 Operating Systems",
+      "patterns" : [
+        "What is DCIT 301?",
+        "What is DCIT 301 about?",
+        "DCIT 301 is?",
+        "Tell me about DCIT 301",
+        "What is the subject matter of DCIT 301?",
+        "Can you tell me what DCIT 301 covers?",
+        "I'm curious about the content of DCIT 301. What is it about?",
+        "Could you provide some information about DCIT 301?",
+        "I'm interested in DCIT 301. Can you give me an overview of what it entails?",
+        "What is Operating Systems?",
+        "What is Operating Systems about?",
+        "Operating Systems is?",
+        "Tell me about Operating Systems",
+        "What is the subject matter of Operating Systems?",
+        "Can you tell me what Operating Systems covers?",
+        "I'm curious about the content of Operating Systems. What is it about?",
+        "Could you provide some information about Operating Systems?",
+        "I'm interested in Operating Systems. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"The course introduces the area of database systems. The course will tackle modeling issues and the translation of models into relational tables. We will introduce the basics of querying databases and, in particular we will see the syntax and composition of SQL queries. At the end of this course students should understand the role of analysis and design in the software engineering lifecycle, develop object-oriented designs by applying established design principles, develop use-case and scenario descriptions of the requirements, develop descriptions of design models using UML diagrams, understand the role and influence of design patterns and frameworks in software design."
+      ]
+    },
+     {
+      "tag" : "DCIT 302 Human-Computer Interaction (HCI)",
+      "patterns" : [
+        "What is DCIT 302?",
+        "What is DCIT 302 about?",
+        "DCIT 302 is?",
+        "Tell me about DCIT 302",
+        "What is the subject matter of DCIT 302?",
+        "Can you tell me what DCIT 302 covers?",
+        "I'm curious about the content of DCIT 302. What is it about?",
+        "Could you provide some information about DCIT 302?",
+        "I'm interested in DCIT 302. Can you give me an overview of what it entails?",
+        "What is Human-Computer Interaction (HCI)?",
+        "What is Human-Computer Interaction (HCI) about?",
+        "Human-Computer Interaction (HCI) is?",
+        "Tell me about Human-Computer Interaction (HCI)",
+        "What is the subject matter of Human-Computer Interaction (HCI)?",
+        "Can you tell me what Human-Computer Interaction (HCI) covers?",
+        "I'm curious about the content of Human-Computer Interaction (HCI). What is it about?",
+        "Could you provide some information about Human-Computer Interaction (HCI)?",
+        "I'm interested in Human-Computer Interaction (HCI). Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course will introduce the student to the basics of high-performance parallel computing and the national cyber-infrastructure. This course is designed to provide an introduction to the field of parallel computation. Topics Include: Architectural, algorithmic, and language requirements for parallel computing and the lectures will emphasize the relationships between these requirements. Parallel algorithm design and analysis as well as parallel programming languages will be examined in the context of specificHuman-Computer Interaction (HCI) is concerned with designing interactions between human activities and the computational systems that support them, and with constructing interfaces to afford those interactions. This course illustrates the principles of user interface design, development, and programming. Topics Include: User psychology and cognitive science, menu system design, command language design, icon and window design, graphical user interfaces, web-based user interfaces. Principles of user interface design. Concepts for objectively and quantitatively assessing the usability of software user interfaces, designing Interaction, Programming Interactive Systems, User-Centered Design and Testing, New Interactive Technologies, emerging technologies are discussed. parallel systems and models."
+      ]
+    },
+    {
+      "tag" : "DCIT 303 Computer Networks",
+      "patterns" : [
+        "What is DCIT 303?",
+        "What is DCIT 303 about?",
+        "DCIT 303 is?",
+        "Tell me about DCIT 303",
+        "What is the subject matter of DCIT 303?",
+        "Can you tell me what DCIT 303 covers?",
+        "I'm curious about the content of DCIT 303. What is it about?",
+        "Could you provide some information about DCIT 303?",
+        "I'm interested in DCIT 303. Can you give me an overview of what it entails?",
+        "What is Computer Networks?",
+        "What is Computer Networks about?",
+        "Computer Networks is?",
+        "Tell me about Computer Networks",
+        "What is the subject matter of Computer Networks?",
+        "Can you tell me what Computer Networks covers?",
+        "I'm curious about the content of Computer Networks. What is it about?",
+        "Could you provide some information about Computer Networks?",
+        "I'm interested in Computer Networks. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course covers both the Introduction to Networks and Routing and Switching Essentials in CCNA. The principles of IP addressing and fundamentals of Ethernet concepts, media, and operations are introduced to provide a foundation for the curriculum. At the end of the course students will be able to build simple LANs, perform basic configurations for routers and switches, and implement IP addressing schemes, configure and troubleshoot routers and switches and resolve common issues with RIPv1, RIPv2, single-area and multi-area OSPF, virtual LANs, and inter-VLAN routing in both IPv4 and IPv6 networks."
+      ]
+    },
+    {
+      "tag" : "DCIT 304 Research Methods",
+      "patterns" : [
+        "What is DCIT 304?",
+        "What is DCIT 304 about?",
+        "DCIT 304 is?",
+        "Tell me about DCIT 304",
+        "What is the subject matter of DCIT 304?",
+        "Can you tell me what DCIT 304 covers?",
+        "I'm curious about the content of DCIT 304. What is it about?",
+        "Could you provide some information about DCIT 304?",
+        "I'm interested in DCIT 304. Can you give me an overview of what it entails?",
+        "What is Research Methods?",
+        "What is Research Methods about?",
+        "Research Methods is?",
+        "Tell me about Research Methods",
+        "What is the subject matter of Research Methods?",
+        "Can you tell me what Research Methods covers?",
+        "I'm curious about the content of Research Methods. What is it about?",
+        "Could you provide some information about Research Methods?",
+        "I'm interested in Research Methods. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course examines different methods of acquiring knowledge, role of economic research, identification of a research problem and stating of research questions and hypotheses. Also review of literature, meaning, purpose and principles of research designs and the measurement design will be examined. The course further acquaints students with the method of data collection and analysis; descriptive and inferential statistics; interpretation of data and proposal and research writing."
+      ]
+    },
+    {
+      "tag" : "DCIT 305 Database Fundamentals",
+      "patterns" : [
+        "What is DCIT 305?",
+        "What is DCIT 305 about?",
+        "DCIT 305 is?",
+        "Tell me about DCIT 305",
+        "What is the subject matter of DCIT 305?",
+        "Can you tell me what DCIT 305 covers?",
+        "I'm curious about the content of DCIT 305. What is it about?",
+        "Could you provide some information about DCIT 305?",
+        "I'm interested in DCIT 305. Can you give me an overview of what it entails?",
+        "What is Database Fundamentals?",
+        "What is Database Fundamentals about?",
+        "Database Fundamentals is?",
+        "Tell me about Database Fundamentals",
+        "What is the subject matter of Database Fundamentals?",
+        "Can you tell me what Database Fundamentals covers?",
+        "I'm curious about the content of Database Fundamentals. What is it about?",
+        "Could you provide some information about Database Fundamentals?",
+        "I'm interested in Database Fundamentals. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"In this course, students will be introduced to relational database concepts, E/R diagrams, normalization, structured query language (SQL). Students will write and execute queries and sub-queries, create database objects (tables. views, indices, sequences, functions, triggers, stored procedures), and manipulate data in tables. Topics covered in this course will include: Database Concepts and Architecture, Database Modelling and Design, Entity-Relationship Model, Normalization, Data Manipulation Language (DML), Data Definition Language (DDL), Data Control Language (DCL), Sub-queries, Multiple Tables, Database Views, Database Triggers, Stored Procedures, Decision and Control Structures, PL/SQL, and Transaction Processing."
+      ]
+    },
+    {
+      "tag" : "DCIT 306 Cloud Computing",
+      "patterns" : [
+        "What is DCIT 306?",
+        "What is DCIT 306 about?",
+        "DCIT 306 is?",
+        "Tell me about DCIT 306",
+        "What is the subject matter of DCIT 306?",
+        "Can you tell me what DCIT 306 covers?",
+        "I'm curious about the content of DCIT 306. What is it about?",
+        "Could you provide some information about DCIT 306?",
+        "I'm interested in DCIT 306. Can you give me an overview of what it entails?",
+        "What is Cloud Computing?",
+        "What is Cloud Computing about?",
+        "Cloud Computing is?",
+        "Tell me about Cloud Computing",
+        "What is the subject matter of Cloud Computing?",
+        "Can you tell me what Cloud Computing covers?",
+        "I'm curious about the content of Cloud Computing. What is it about?",
+        "Could you provide some information about Cloud Computing?",
+        "I'm interested in Cloud Computing. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course provides a hands-on comprehensive study of Cloud concepts and capabilities across the various Cloud service models IaaS, PaaS, SaaS, and Business Process as a Service (BPaaS). IaaS topics start with a detailed study the evolution of infrastructure migration approaches from VMWare/Xen/KVM virtualization, to adaptive virtualization, and Cloud Computing/on-demand resources provisioning. Mainstream Cloud infrastructure services and related vendor solutions are also covered in detail. PaaS topics cover a broad range of Cloud vendor platforms including AWS, Google App Engine, Microsoft Azure, Eucalyptus, OpenStack as well as storage services that leverage Google Storage, Amazon S3, Amazon Dynamo. "
+      ]
+    },
+    {
+      "tag" : "DCIT 307 Mini-Project",
+      "patterns" : [
+        "What is DCIT 307?",
+        "What is DCIT 307 about?",
+        "DCIT 307 is?",
+        "Tell me about DCIT 307",
+        "What is the subject matter of DCIT 307?",
+        "Can you tell me what DCIT 307 covers?",
+        "I'm curious about the content of DCIT 307. What is it about?",
+        "Could you provide some information about DCIT 307?",
+        "I'm interested in DCIT 307. Can you give me an overview of what it entails?",
+        "What is Mini-Project?",
+        "What is Mini-Project about?",
+        "Mini-Project is?",
+        "Tell me about Mini-Project",
+        "What is the subject matter of Mini-Project?",
+        "Can you tell me what Mini-Project covers?",
+        "I'm curious about the content of Mini-Project. What is it about?",
+        "Could you provide some information about Mini-Project?",
+        "I'm interested in Mini-Project. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"Students use information technology as a tool to redesign business processes so the enterprise can achieve its objectives. Student teams analyze the business processes of real organizations, quantify the negative impact caused by current process challenges, then develop and present a compelling Business Case for Change. Students develop skills critical for preparing and delivering effective verbal briefings and presentations."
+      ]
+    },
+    {
+      "tag" : "DCIT 308 Data Structures and Algorithms II",
+      "patterns" : [
+        "What is DCIT 308?",
+        "What is DCIT 308 about?",
+        "DCIT 308 is?",
+        "Tell me about DCIT 308",
+        "What is the subject matter of DCIT 308?",
+        "Can you tell me what DCIT 308 covers?",
+        "I'm curious about the content of DCIT 308. What is it about?",
+        "Could you provide some information about DCIT 308?",
+        "I'm interested in DCIT 308. Can you give me an overview of what it entails?",
+        "What is Data Structures and Algorithms II?",
+        "What is Data Structures and Algorithms II about?",
+        "Data Structures and Algorithms II is?",
+        "Tell me about Data Structures and Algorithms II",
+        "What is the subject matter of Data Structures and Algorithms II?",
+        "Can you tell me what Data Structures and Algorithms II covers?",
+        "I'm curious about the content of Data Structures and Algorithms II. What is it about?",
+        "Could you provide some information about Data Structures and Algorithms II?",
+        "I'm interested in Data Structures and Algorithms II. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course covers further topics in data structures and the algorithms required for their implementation. Data structures include heaps and search, splay, and spanning trees. Analysis techniques include asymptotic worst case, expected time, amortized analysis, and reductions between problems. Include Generic types, Linked lists, Stacks and queues, Binary trees, Balanced binary trees, Multi-way trees, B-trees and B+-trees, File organization, Searching and sorting, Hashing. Running time analysis of algorithms and their implementations, one-dimensional data structures, trees, heaps, additional sorting algorithms, binary search trees, hash tables, graphs, directed graphs, weighted graph algorithms."
+      ]
+    },
+    {
+      "tag" : "DCIT 309 Embedded Systems and Internet of Things",
+      "patterns" : [
+        "What is DCIT 309?",
+        "What is DCIT 309 about?",
+        "DCIT 309 is?",
+        "Tell me about DCIT 309",
+        "What is the subject matter of DCIT 309?",
+        "Can you tell me what DCIT 309 covers?",
+        "I'm curious about the content of DCIT 309. What is it about?",
+        "Could you provide some information about DCIT 309?",
+        "I'm interested in DCIT 309. Can you give me an overview of what it entails?",
+        "What is Embedded Systems and Internet of Things?",
+        "What is Embedded Systems and Internet of Things about?",
+        "Embedded Systems and Internet of Things is?",
+        "Tell me about Embedded Systems and Internet of Things",
+        "What is the subject matter of Embedded Systems and Internet of Things?",
+        "Can you tell me what Embedded Systems and Internet of Things covers?",
+        "I'm curious about the content of Embedded Systems and Internet of Things. What is it about?",
+        "Could you provide some information about Embedded Systems and Internet of Things?",
+        "I'm interested in Embedded Systems and Internet of Things. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course aims at teaching students the fundamental principles underpinning the design and construction of devices through the theory and practice of embedded systems. Topics Include: Embedded Systems Architecture and design; Middleware and Application Software; Embedded software; Embedded hardware; Embedded Processor, Board Memory, Board Buses, Board Input/Output. Students will learn about sensor operation, signal acquisition, the role of measurement uncertainty and noise, common sensor communication interfaces and how they interact with modern embedded microcontrollers Other topics in this course are components of IoT devices, IoT design considerations and constraints, design trade-offs between hardware and software, IoT device and the Internet."
+      ]
+    },
+    {
+      "tag" : "DCIT 311 Machine Learning",
+      "patterns" : [
+        "What is DCIT 311?",
+        "What is DCIT 311 about?",
+        "DCIT 311 is?",
+        "Tell me about DCIT 311",
+        "What is the subject matter of DCIT 311?",
+        "Can you tell me what DCIT 311 covers?",
+        "I'm curious about the content of DCIT 311. What is it about?",
+        "Could you provide some information about DCIT 311?",
+        "I'm interested in DCIT 311. Can you give me an overview of what it entails?",
+        "What is Machine Learning?",
+        "What is Machine Learning about?",
+        "Machine Learning is?",
+        "Tell me about Machine Learning",
+        "What is the subject matter of Machine Learning?",
+        "Can you tell me what Machine Learning covers?",
+        "I'm curious about the content of Machine Learning. What is it about?",
+        "Could you provide some information about Machine Learning?",
+        "I'm interested in Machine Learning. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"In this introductory course covers the basic theory and algorithms that form the core of machine learning. Machine Learning draws on concepts and results from many fields and forms a key technology in Big Data, and in many financial, medical, commercial, and scientific applications. Topics covered in this course are The Learning Problem, The Linear Model I, Error and Noise, Training versus Testing, Theory of Generalization, The VC Dimension, Bias-Variance Tradeoff, Neural Networks, Overfitting, Regularization, Validation, Support Vector Machines, decision trees, Kernel Methods, Radial Basis Functions, Learning Principles, Deep Learning, Epilogue."
+      ]
+    },
+    {
+      "tag" : "DCIT 312 Information Security Management",
+      "patterns" : [
+        "What is DCIT 312?",
+        "What is DCIT 312 about?",
+        "DCIT 312 is?",
+        "Tell me about DCIT 312",
+        "What is the subject matter of DCIT 312?",
+        "Can you tell me what DCIT 312 covers?",
+        "I'm curious about the content of DCIT 312. What is it about?",
+        "Could you provide some information about DCIT 312?",
+        "I'm interested in DCIT 312. Can you give me an overview of what it entails?",
+        "What is Information Security Management?",
+        "What is Information Security Management about?",
+        "Machine Learning is?",
+        "Tell me about Information Security Management",
+        "What is the subject matter of Information Security Management?",
+        "Can you tell me what Information Security Management covers?",
+        "I'm curious about the content of Information Security Management. What is it about?",
+        "Could you provide some information aboutInformation Security Management?",
+        "I'm interested inInformation Security Management. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course covers the range of concepts, approaches and techniques that are applicable in Information Security Management Principles. Students are required to demonstrate their knowledge and understanding of these aspects in Information Security Management Principles. It provides the opportunity for those already within these roles to enhance or refresh their knowledge. Key areas are: Knowledge of the concepts relating to information security management, Understanding of current national legislation and regulations which impact upon information security management, Awareness of current national and international standards, frameworks and organizations which facilitate the management of information security."
+      ]
+    },
+    {
+      "tag" : "DCIT 313 Introduction to Artificial Intelligence",
+      "patterns" : [
+        "What is DCIT 313?",
+        "What is DCIT 313 about?",
+        "DCIT 313 is?",
+        "Tell me about DCIT 313",
+        "What is the subject matter of DCIT 313?",
+        "Can you tell me what DCIT 313 covers?",
+        "I'm curious about the content of DCIT 313. What is it about?",
+        "Could you provide some information about DCIT 313?",
+        "I'm interested in DCIT 313. Can you give me an overview of what it entails?",
+        "What is Introduction to Artificial Intelligence?",
+        "What is Introduction to Artificial Intelligence about?",
+        "Machine Learning is?",
+        "Tell me aboutIntroduction to Artificial Intelligence",
+        "What is the subject matter ofIntroduction to Artificial Intelligence?",
+        "Can you tell me whatIntroduction to Artificial Intelligence covers?",
+        "I'm curious about the content ofIntroduction to Artificial Intelligence. What is it about?",
+        "Could you provide some information aboutIntroduction to Artificial Intelligence?",
+        "I'm interested inIntroduction to Artificial Intelligence. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course will cover the theory and practice of developing systems that exhibit the characteristics we associate with intelligence in human behavior such as reasoning, planning and problem solving, learning and adaptation, natural language processing, and perception. Basic problem-solving strategies, heuristic search, problem reduction and AND/OR graphs, knowledge representation,uncertainty reasoning, game playing, planning, machine learning, computer vision, and programming systems such as Lisp or Prolog. Topics include state space search, logic, and resolution theorem proving. Application areas may include expert systems, natural language understanding, planning, machine learning, or machine perception."
+      ]
+    },
+    {
+      "tag" : "DCIT 314 Game Engine Architecture",
+      "patterns" : [
+        "What is DCIT 314?",
+        "What is DCIT 314 about?",
+        "DCIT 314 is?",
+        "Tell me about DCIT 314",
+        "What is the subject matter of DCIT 314?",
+        "Can you tell me what DCIT 314 covers?",
+        "I'm curious about the content of DCIT 314. What is it about?",
+        "Could you provide some information about DCIT 314?",
+        "I'm interested in DCIT 314. Can you give me an overview of what it entails?",
+        "What is Game Engine Architecture?",
+        "What is Game Engine Architecture about?",
+        "Machine Learning is?",
+        "Tell me aboutGame Engine Architecture",
+        "What is the subject matter ofGame Engine Architecture?",
+        "Can you tell me whatGame Engine Architecture covers?",
+        "I'm curious about the content ofGame Engine Architecture. What is it about?",
+        "Could you provide some information aboutGame Engine Architecture?",
+        "I'm interested inGame Engine Architecture. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course provides students with an introduction to the theory and practice of video game programming. Students will participate in individual hands-on lab exercises, and also work together like a real game development team to design and build their own functional game using an existing game engine (e.g. XNA) and also by designing and implementing engine subsystems and integrating 3rd party components. Topics would include real-time programming and the game loop, human interface devices, 3D rendering, collision detection, skeletal animation, rigid body dynamics, game object models, event-driven programming, game scripting languages."
+      ]
+    },
+    {
+      "tag" : "DCIT 315 Principles of 3D Environment",
+      "patterns" : [
+        "What is DCIT 315?",
+        "What is DCIT 315 about?",
+        "DCIT 315 is?",
+        "Tell me about DCIT 315",
+        "What is the subject matter of DCIT 315?",
+        "Can you tell me what DCIT 315 covers?",
+        "I'm curious about the content of DCIT 315. What is it about?",
+        "Could you provide some information about DCIT 315?",
+        "I'm interested in DCIT 315. Can you give me an overview of what it entails?",
+        "What is Principles of 3D Environment?",
+        "What is Principles of 3D Environment about?",
+        "Machine Learning is?",
+        "Tell me about Principles of 3D Environment",
+        "What is the subject matter of Principles of 3D Environment?",
+        "Can you tell me what Principles of 3D Environment covers?",
+        "I'm curious about the content of Principles of 3D Environment. What is it about?",
+        "Could you provide some information about Principles of 3D Environment?",
+        "I'm interested inPrinciples of 3D Environment. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This an introductory course focusing on 3D concepts for game play, modeling, and programming with a view on current and future technologies for electronic game design. Topics include graphics, game scripting, game engines, motion control, narrative in games, game interfaces, artificial intelligence, music and sound,Serious Games and social and interface issues of game development. The course explores game engine software framework to design and implement games, animation techniques, physics simulation, user controls, graphical methods, and intelligent behaviors. Students will finally be introduced to Game Studio for control of objects and interactions in 2D and 3D game worlds. "
+      ]
+    },
+    {
+      "tag" : "DCIT 316 Computational models for Social Media Mining",
+      "patterns" : [
+        "What is DCIT 316?",
+        "What is DCIT 316 about?",
+        "DCIT 316 is?",
+        "Tell me about DCIT 316",
+        "What is the subject matter of DCIT 316?",
+        "Can you tell me what DCIT 316 covers?",
+        "I'm curious about the content of DCIT 316. What is it about?",
+        "Could you provide some information about DCIT 316?",
+        "I'm interested in DCIT 316. Can you give me an overview of what it entails?",
+        "What is Computational models for Social Media Mining?",
+        "What is Computational models for Social Media Mining about?",
+        "Machine Learning is?",
+        "Tell me about Computational models for Social Media Mining",
+        "What is the subject matter of Computational models for Social Media Mining?",
+        "Can you tell me what Computational models for Social Media Mining covers?",
+        "I'm curious about the content of Computational models for Social Media Mining. What is it about?",
+        "Could you provide some information aboutComputational models for Social Media Mining?",
+        "I'm interested inComputational models for Social Media Mining. Can you give me an overview of what it entails?"
+      
+      ],
+      "responses" : [
+"This course will introduce students to computational methods for extracting social and interactional meaning from large volumes of text and speech (both traditional media and social media). The use of computational techniques to model social phenomena and the use of data analytics to learn models of (and to predict) social phenomena using real data will be taught. Topics will include: Sentiment Analysis, Emotion and Mood Analysis, Belief Analysis and Hedging, Deception Detection, Argumentation Mining and Social Power analysis."
+      ]
+    },
+    {
+      "tag" : "DCIT 317 IT Project Management",
+      "patterns" : [
+        "What is DCIT 317?",
+        "What is DCIT 317 about?",
+        "DCIT 317 is?",
+        "Tell me about DCIT 317",
+        "What is the subject matter of DCIT 317?",
+        "Can you tell me what DCIT 317 covers?",
+        "I'm curious about the content of DCIT 317. What is it about?",
+        "Could you provide some information about DCIT 317?",
+        "I'm interested in DCIT 317. Can you give me an overview of what it entails?",
+        "What is IT Project Management?",
+        "What is IT Project Management about?",
+        "Machine Learning is?",
+        "Tell me about IT Project Management",
+        "What is the subject matter ofIT Project Management?",
+        "Can you tell me what IT Project Management covers?",
+        "I'm curious about the content of IT Project Management. What is it about?",
+        "Could you provide some information aboutIT Project Management?",
+        "I'm interested inIT Project Management. Can you give me an overview of what it entails?"
+     
+      ],
+      "responses" : [
+"This course is mainly designed to prepare IT project managers, novice or experienced, with project management skills needed to better manage IT projects. Built along the IT project management lifecycle, this course covers detailed topics of the basic concepts of IT project management, including initiating, planning, controlling, executing, and closing projects. The course also shows how IT projects should be managed, from inception to post implementation review. The audience who take this course will likely improve their management skills and abilities to define the project scope, create a workable project plan, and manage within the budget and schedule."
+      ]
+    },
+    {
+      "tag" : "DCIT 318 Programming II",
+      "patterns" : [
+        "What is DCIT 318?",
+        "What is DCIT 318 about?",
+        "DCIT 318 is?",
+        "Tell me about DCIT 318",
+        "What is the subject matter of DCIT 318?",
+        "Can you tell me what DCIT 318 covers?",
+        "I'm curious about the content of DCIT 318. What is it about?",
+        "Could you provide some information about DCIT 318?",
+        "I'm interested in DCIT 318. Can you give me an overview of what it entails?",
+        "What is   Programming II?",
+        "What is   Programming II about?",
+        "Machine Learning is?",
+        "Tell me about   Programming II",
+        "What is the subject matter of  Programming II?",
+        "Can you tell me what   Programming II covers?",
+        "I'm curious about the content of   Programming II. What is it about?",
+        "Could you provide some information about  Programming II?",
+        "I'm interested in  Programming II. Can you give me an overview of what it entails?"
+     
+      ],
+      "responses" : [
+"The course introduces students to advanced application software development using Microsoft application development platform. It teaches students how to design desktop and web based application software using the design tools available in Microsoft Visual Studio. Topics to covered in this course are introduction to C# Syntax, Methods, Classes and Inheritance, Exceptions handling and Monitoring, UI design using windows forms, controls, menus, and toolbar, Reading and writing files on to local disk and Accessing a Database using ADO.Net, LINQ and Entity Data Models, Accessing Remote Data using the types in the System.Net namespace, and WCF Data Services, UI design using XAML. "
+      ]
+    },
+     {
+      "tag" : "DCIT 319 Discrete Structures",
+      "patterns" : [
+        "What is DCIT 319?",
+        "What is DCIT 319 about?",
+        "DCIT 319 is?",
+        "Tell me about DCIT 319",
+        "What is the subject matter of DCIT 319?",
+        "Can you tell me what DCIT 319 covers?",
+        "I'm curious about the content of DCIT 319. What is it about?",
+        "Could you provide some information about DCIT 319?",
+        "I'm interested in DCIT 319. Can you give me an overview of what it entails?",
+        "What is   Discrete Structures?",
+        "What is   Discrete Structures about?",
+        "Machine Learning is?",
+        "Tell me about   Discrete Structures",
+        "What is the subject matter of  Discrete Structures?",
+        "Can you tell me what   Discrete Structures covers?",
+        "I'm curious about the content of   Discrete Structures. What is it about?",
+        "Could you provide some information about  Discrete Structures?",
+        "I'm interested in  Discrete Structures. Can you give me an overview of what it entails?"
+     
+      ],
+      "responses" : [
+"The goal of this course is to introduce students to ideas and techniques from discrete mathematics that are widely used in science and engineering. Students will learn logic and proof, sets, functions, as well as algorithms and mathematical reasoning. Key topics to be covered include Propositional Logic, Predicate Logic and Quantification, Methods of Proof, Sets and Functions, Arithmetic Algorithms, Growth of Functions, Computational Complexity of Algorithms, Integer properties and Matrices, Mathematical Induction, Recursion, Sequences and Summations, Program Correctness, Graphs and its Applications, Trees and its Applications, Languages and Grammars, Finite-State Machines, Automata and Language Recognition and Turing Machines."
+      ]
+    },
+    {
+      "tag" : "DCIT 321 Software Evolution",
+      "patterns" : [
+        "What is DCIT 321?",
+        "What is DCIT 321 about?",
+        "DCIT 321 is?",
+        "Tell me about DCIT 321",
+        "What is the subject matter of DCIT 321?",
+        "Can you tell me what DCIT 321 covers?",
+        "I'm curious about the content of DCIT 321. What is it about?",
+        "Could you provide some information about DCIT 321?",
+        "I'm interested in DCIT 321. Can you give me an overview of what it entails?",
+        "What is   Software Evolution?",
+        "What is   Software Evolution about?",
+        "Machine Learning is?",
+        "Tell me about   Software Evolution",
+        "What is the subject matter of  Software Evolution?",
+        "Can you tell me what   Software Evolution covers?",
+        "I'm curious about the content of   Software Evolution. What is it about?",
+        "Could you provide some information about  Software Evolution?",
+        "I'm interested in  Software Evolution. Can you give me an overview of what it entails?"
+     
+      ],
+      "responses" : [
+"Software evolution plays a key role in software development. In most case programmers do not build software from scratch as rather they modify existing software to provide new features to customers and fix defects in existing software. Evolving software systems is often a time-consuming and error-prone process. This course will focus on the fundamentals of state-of-the art methods, tools, and techniques for evolving software based on the current software engineering research literature. Students will be expected to read current literature on software evolution since the course will be discussion based."
+      ]
+    },
+    {
+      "tag" : "DCIT 322 Database Management Administration",
+      "patterns" : [
+        "What is DCIT 322?",
+        "What is DCIT 322 about?",
+        "DCIT 322 is?",
+        "Tell me about DCIT 322",
+        "What is the subject matter of DCIT 322?",
+        "Can you tell me what DCIT 322 covers?",
+        "I'm curious about the content of DCIT 322. What is it about?",
+        "Could you provide some information about DCIT 322?",
+        "I'm interested in DCIT 322. Can you give me an overview of what it entails?",
+        "What is   Database Management Administration?",
+        "What is   Database Management Administration about?",
+        "Machine Learning is?",
+        "Tell me about   Database Management Administration",
+        "What is the subject matter of  Database Management Administration?",
+        "Can you tell me what   Database Management Administration covers?",
+        "I'm curious about the content of   Database Management Administration. What is it about?",
+        "Could you provide some information about  Database Management Administration?",
+        "I'm interested in  Database Management Administration. Can you give me an overview of what it entails?"
+     
+      ],
+      "responses" : [
+"This course will study overview of database systems, Introduction to Database Design; The Relational Model Relational Algebra SQL Database Application Development; Storage and Indexing; Tree-Structured Indexing; Hash-Based Indexing; Schema Refinement and Normalisation object oriented database languages; the relational database model with introductions to SQL and DBMS; hierarchical models and network models with introductions to HDDL, HDML, and DBTG Codasyl; data mining; data warehousing; database connectivity; distributed databases; the client/server paradigm; middleware, including ODBC, JDBC, CORBA, and MOM. "
+      ]
     }
+
   ]
 }
