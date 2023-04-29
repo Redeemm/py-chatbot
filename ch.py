@@ -32,7 +32,7 @@ model.eval()
 
 bot_name = "Sam"
 
-@app.route('http://redkoko.pythonanywhere.com/chat', methods=['POST'])
+@app.route('/chat', methods=['POST'])
 def chat():
 
     message = request.json['message']
