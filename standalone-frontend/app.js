@@ -7,7 +7,7 @@ class Chatbox {
       sendButton: document.querySelector(".send__button"),
     };
 
-    this.baseUrl = "https://5897-154-160-14-213.ngrok-free.app/chat";
+    this.baseUrl = "/chat";
     this.userName = "";
     this.chatName = "Sam";
     this.state = false;
