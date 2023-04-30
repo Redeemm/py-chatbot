@@ -69,7 +69,7 @@ class Chatbox {
         console.error("Error:", error);
         this.updateChatText({
           name: this.chatName,
-          message: "Error occured..",
+          message: error,
         });
       });
 
