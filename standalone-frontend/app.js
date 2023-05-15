@@ -7,7 +7,7 @@ class Chatbox {
       sendButton: document.querySelector(".send__button"),
     };
 
-    this.baseUrl = "44.229.200.200/chat";
+    this.baseUrl = "http://44.229.200.200/chat";
     this.userName = "";
     this.chatName = "Sam";
     this.state = false;
